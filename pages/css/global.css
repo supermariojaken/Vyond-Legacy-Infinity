@@ -44,7 +44,7 @@ header {
 	color: #fff;
 	border-radius: 6px;
 	/* layout */
-	display: inline-block;
+	display: underline;
 	padding: 32px 40px;;
 	margin: 6px 5px;
 }
